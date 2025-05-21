@@ -100,6 +100,6 @@ The application follows the MVVM pattern with:
 4. Update database connection settings in Database.php if needed
 5. Access through your web browser
 
-## Screenshots
+## Screenrecord
 
 https://drive.google.com/file/d/1guBGql_L4WYpQQFGrluyxomSyceBK4tv/view?usp=sharing
